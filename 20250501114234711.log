@@ -1,0 +1,617 @@
+2025-04-08 21:08:49 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-04-08 21:08:49 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-04-08 21:08:49 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-04-08 21:12:26 [PicGo ERROR] 
+------Error Stack Begin------
+Error: 请同意隐私协议，否则无法上传。
+    at Object.upload (/snap/picgo/x1/resources/app.asar/index.js:2:687255)
+    at async mr (/snap/picgo/x1/resources/app.asar/index.js:2:690051)
+-------Error Stack End------- 
+2025-04-08 21:12:34 [PicGo INFO] Before transform 
+2025-04-08 21:12:34 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-08 21:12:34 [PicGo WARN] can't get /home/hamhuo/Documents/GitHub/school/StudentSphere/159.261/lab4.zip's image size 
+2025-04-08 21:12:34 [PicGo WARN] fallback to 200 * 200 
+2025-04-08 21:12:34 [PicGo INFO] Before upload 
+2025-04-08 21:12:34 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-08 21:12:34 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-08 21:12:36 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/lab4.zip 
+2025-04-09 10:51:54 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-04-09 10:51:54 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-04-09 10:51:54 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-04-09 10:52:07 [PicGo INFO] [PicGo Server] get the request  
+2025-04-09 10:52:07 [PicGo INFO] [PicGo Server] upload clipboard file 
+2025-04-09 10:52:07 [PicGo INFO] upload clipboard file 
+2025-04-09 10:52:07 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find no xclip
+    at Socket.<anonymous> (/snap/picgo/x1/resources/app.asar/node_modules/picgo/dist/index.cjs.js:1:50657)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+-------Error Stack End------- 
+2025-04-09 10:52:07 [PicGo INFO] [PicGo Server] upload result:  
+2025-04-09 10:52:07 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-04-09 10:52:21 [PicGo INFO] [PicGo Server] get the request  
+2025-04-09 10:52:21 [PicGo INFO] [PicGo Server] upload clipboard file 
+2025-04-09 10:52:21 [PicGo INFO] upload clipboard file 
+2025-04-09 10:52:21 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find no xclip
+    at Socket.<anonymous> (/snap/picgo/x1/resources/app.asar/node_modules/picgo/dist/index.cjs.js:1:50657)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+-------Error Stack End------- 
+2025-04-09 10:52:21 [PicGo INFO] [PicGo Server] upload result:  
+2025-04-09 10:52:21 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-04-09 10:52:36 [PicGo INFO] [PicGo Server] get the request  
+2025-04-09 10:52:36 [PicGo INFO] [PicGo Server] upload clipboard file 
+2025-04-09 10:52:36 [PicGo INFO] upload clipboard file 
+2025-04-09 10:52:36 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find no xclip
+    at Socket.<anonymous> (/snap/picgo/x1/resources/app.asar/node_modules/picgo/dist/index.cjs.js:1:50657)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+-------Error Stack End------- 
+2025-04-09 10:52:36 [PicGo INFO] [PicGo Server] upload result:  
+2025-04-09 10:52:36 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-04-09 10:52:50 [PicGo INFO] [PicGo Server] get the request  
+2025-04-09 10:52:50 [PicGo INFO] [PicGo Server] upload clipboard file 
+2025-04-09 10:52:50 [PicGo INFO] upload clipboard file 
+2025-04-09 10:52:50 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find no xclip
+    at Socket.<anonymous> (/snap/picgo/x1/resources/app.asar/node_modules/picgo/dist/index.cjs.js:1:50657)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+-------Error Stack End------- 
+2025-04-09 10:52:50 [PicGo INFO] [PicGo Server] upload result:  
+2025-04-09 10:52:50 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-04-09 11:24:36 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Desktop/Snipaste_2025-04-09_11-24-08.png"]} 
+2025-04-09 11:24:36 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-09 11:24:36 [PicGo INFO] Before transform 
+2025-04-09 11:24:36 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-09 11:24:36 [PicGo INFO] Before upload 
+2025-04-09 11:24:36 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-09 11:24:36 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-09 11:24:38 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/Snipaste_2025-04-09_11-24-08.png 
+2025-04-09 11:24:38 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/Snipaste_2025-04-09_11-24-08.png 
+2025-04-09 11:41:47 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Desktop/Snipaste_2025-04-09_10-52-44.png"]} 
+2025-04-09 11:41:47 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-09 11:41:47 [PicGo INFO] Before transform 
+2025-04-09 11:41:47 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-09 11:41:47 [PicGo INFO] Before upload 
+2025-04-09 11:41:47 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-09 11:41:47 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-09 11:41:49 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250409114147604.png 
+2025-04-09 11:41:49 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250409114147604.png 
+2025-04-09 11:42:18 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Desktop/Snipaste_2025-04-09_11-26-00.png"]} 
+2025-04-09 11:42:18 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-09 11:42:18 [PicGo INFO] Before transform 
+2025-04-09 11:42:18 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-09 11:42:18 [PicGo INFO] Before upload 
+2025-04-09 11:42:18 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-09 11:42:18 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-09 11:42:20 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250409114218609.png 
+2025-04-09 11:42:20 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250409114218609.png 
+2025-04-28 16:21:00 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-04-28 16:21:00 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-04-28 16:21:00 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-04-28 16:21:02 [PicGo INFO] [PicGo Server] get the request  
+2025-04-28 16:21:02 [PicGo INFO] [PicGo Server] upload clipboard file 
+2025-04-28 16:21:02 [PicGo INFO] upload clipboard file 
+2025-04-28 16:21:02 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find no xclip
+    at Socket.<anonymous> (/snap/picgo/x1/resources/app.asar/node_modules/picgo/dist/index.cjs.js:1:50657)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+-------Error Stack End------- 
+2025-04-28 16:21:02 [PicGo INFO] [PicGo Server] upload result:  
+2025-04-28 16:21:02 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-04-28 16:21:24 [PicGo INFO] Before transform 
+2025-04-28 16:21:24 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-28 16:21:24 [PicGo WARN] can't get /home/hamhuo/Documents/GitHub/seaku-src/hugo.yaml's image size 
+2025-04-28 16:21:24 [PicGo WARN] fallback to 200 * 200 
+2025-04-28 16:21:24 [PicGo INFO] Before upload 
+2025-04-28 16:21:24 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-28 16:21:24 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-28 16:21:24 [PicGo WARN] failed 
+2025-04-28 16:21:24 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250428162124031.yaml",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-04-28 16:21:24 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250428162124031.yaml",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-04-28 16:21:46 [PicGo INFO] Before transform 
+2025-04-28 16:21:46 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-28 16:21:46 [PicGo WARN] can't get /home/hamhuo/Documents/GitHub/seaku-src/config.yaml's image size 
+2025-04-28 16:21:46 [PicGo WARN] fallback to 200 * 200 
+2025-04-28 16:21:46 [PicGo INFO] Before upload 
+2025-04-28 16:21:46 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-28 16:21:46 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-28 16:21:47 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428162146240.yaml 
+2025-04-28 16:22:02 [PicGo INFO] [PicGo Server] get the request  
+2025-04-28 16:22:02 [PicGo INFO] [PicGo Server] upload clipboard file 
+2025-04-28 16:22:02 [PicGo INFO] upload clipboard file 
+2025-04-28 16:22:02 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find no xclip
+    at Socket.<anonymous> (/snap/picgo/x1/resources/app.asar/node_modules/picgo/dist/index.cjs.js:1:50657)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+-------Error Stack End------- 
+2025-04-28 16:22:02 [PicGo INFO] [PicGo Server] upload result:  
+2025-04-28 16:22:02 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-04-28 20:43:37 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-04-28 20:43:37 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-04-28 20:43:37 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-04-28 20:43:47 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428162316.png","/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428162631.png","/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428162943.png"]} 
+2025-04-28 20:43:47 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-28 20:43:47 [PicGo INFO] Before transform 
+2025-04-28 20:43:47 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-28 20:43:47 [PicGo INFO] Before upload 
+2025-04-28 20:43:47 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-28 20:43:47 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-28 20:43:52 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347887.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347889.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347890.png 
+2025-04-28 20:43:52 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347887.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347889.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347890.png 
+2025-04-28 20:44:07 [PicGo INFO] [PicGo Server] get the request {"list":["https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347887.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347889.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204347890.png"]} 
+2025-04-28 20:44:07 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-28 20:44:07 [PicGo INFO] Before transform 
+2025-04-28 20:44:07 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-28 20:44:10 [PicGo INFO] Before upload 
+2025-04-28 20:44:10 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-28 20:44:10 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-28 20:44:19 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410300.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410301.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410303.png 
+2025-04-28 20:44:19 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410300.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410301.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410303.png 
+2025-04-28 20:44:40 [PicGo INFO] [PicGo Server] get the request {"list":["https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410300.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410301.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204410303.png","/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428162851.png","/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428163045.png","/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428163112.png"]} 
+2025-04-28 20:44:40 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-28 20:44:40 [PicGo INFO] Before transform 
+2025-04-28 20:44:40 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-28 20:44:41 [PicGo INFO] Before upload 
+2025-04-28 20:44:41 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-28 20:44:41 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-28 20:44:54 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441282.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441283.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441284.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441286.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441287.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441288.png 
+2025-04-28 20:44:55 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441282.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441283.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441284.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441286.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441287.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441288.png 
+2025-04-28 20:45:15 [PicGo INFO] [PicGo Server] get the request {"list":["https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441282.png","/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428162504.png","/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428162535.png","/home/hamhuo/Documents/GitHub/seaku-src/Pasted image 20250428162556.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441283.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441284.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441286.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441287.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204441288.png"]} 
+2025-04-28 20:45:15 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-28 20:45:15 [PicGo INFO] Before transform 
+2025-04-28 20:45:15 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-28 20:45:17 [PicGo INFO] Before upload 
+2025-04-28 20:45:17 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-28 20:45:17 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-28 20:45:29 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517609.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517610.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517611.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517612.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517613.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517614.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517615.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517616.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517617.png 
+2025-04-28 20:45:30 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517609.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517610.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517611.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517612.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517613.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517614.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517615.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517616.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517617.png 
+2025-04-28 20:45:47 [PicGo INFO] [PicGo Server] get the request  
+2025-04-28 20:45:47 [PicGo INFO] [PicGo Server] upload clipboard file 
+2025-04-28 20:45:47 [PicGo INFO] upload clipboard file 
+2025-04-28 20:45:47 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find no xclip
+    at Socket.<anonymous> (/snap/picgo/x1/resources/app.asar/node_modules/picgo/dist/index.cjs.js:1:50657)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+-------Error Stack End------- 
+2025-04-28 20:45:47 [PicGo INFO] [PicGo Server] upload result:  
+2025-04-28 20:45:47 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-04-28 21:08:13 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250428205843.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250428210016.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250428210117.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250428210205.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250428210245.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250428210805.png"]} 
+2025-04-28 21:08:13 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-28 21:08:13 [PicGo INFO] Before transform 
+2025-04-28 21:08:13 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-28 21:08:13 [PicGo INFO] Before upload 
+2025-04-28 21:08:13 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-28 21:08:13 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-28 21:08:20 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813013.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813014.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813015.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813017.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813018.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813019.png 
+2025-04-28 21:08:21 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813013.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813014.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813015.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813017.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813018.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428210813019.png 
+2025-04-29 07:20:20 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-04-29 07:20:20 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-04-29 07:20:20 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-04-29 14:41:02 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-04-29 14:41:02 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-04-29 14:41:02 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-04-29 17:29:40 [PicGo INFO] [PicGo Server] get the request {"list":["https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517609.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517610.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517611.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517612.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517613.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517614.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517615.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517616.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517617.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075457.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075557.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075855.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080022.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080032.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080101.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080157.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082358.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080220.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082847.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082901.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083209.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083434.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083447.png"]} 
+2025-04-29 17:29:40 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-29 17:29:40 [PicGo INFO] Before transform 
+2025-04-29 17:29:40 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-29 17:29:41 [PicGo INFO] Before upload 
+2025-04-29 17:29:41 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-29 17:29:41 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-29 17:30:06 [PicGo INFO] [PicGo Server] get the request {"list":["https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517609.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517610.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517611.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517612.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517613.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517614.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517615.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517616.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517617.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075457.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075557.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075855.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080022.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080032.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080101.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080157.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082358.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080220.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082847.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082901.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083209.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083434.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083447.png"]} 
+2025-04-29 17:30:06 [PicGo INFO] [PicGo Server] upload files in list 
+2025-04-29 17:30:06 [PicGo INFO] Before transform 
+2025-04-29 17:30:06 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-29 17:30:09 [PicGo INFO] Before upload 
+2025-04-29 17:30:09 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-29 17:30:09 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-29 17:30:12 [PicGo WARN] failed 
+2025-04-29 17:30:12 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250429172941702.png",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 4d8f104ebeff1626bef4082e5e59f46de0666d62 but expected 5367f9d76e3180b5291e7f3bb4f137d8b1340a97",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-04-29 17:30:12 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250429172941702.png",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 4d8f104ebeff1626bef4082e5e59f46de0666d62 but expected 5367f9d76e3180b5291e7f3bb4f137d8b1340a97",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-04-29 17:30:12 [PicGo INFO] [PicGo Server] upload result  
+2025-04-29 17:30:12 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-04-29 17:30:23 [PicGo INFO] Before transform 
+2025-04-29 17:30:23 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-29 17:30:23 [PicGo WARN] can't get /run/user/1000/doc/43ab2639/obsidian.desktop's image size 
+2025-04-29 17:30:23 [PicGo WARN] fallback to 200 * 200 
+2025-04-29 17:30:23 [PicGo INFO] Before upload 
+2025-04-29 17:30:23 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-29 17:30:23 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-29 17:30:25 [PicGo WARN] failed 
+2025-04-29 17:30:25 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250429173023294.desktop",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 103efdc0594a1c1e0b03287ae83f519eaf226e66 but expected ed4d109f483d9169f64f554f02cbe80989bfccf4",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-04-29 17:30:25 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250429173023294.desktop",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 103efdc0594a1c1e0b03287ae83f519eaf226e66 but expected ed4d109f483d9169f64f554f02cbe80989bfccf4",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-04-29 17:30:56 [PicGo INFO] Before transform 
+2025-04-29 17:30:56 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-04-29 17:30:56 [PicGo WARN] can't get /run/user/1000/doc/43ab2639/obsidian.desktop's image size 
+2025-04-29 17:30:56 [PicGo WARN] fallback to 200 * 200 
+2025-04-29 17:30:56 [PicGo INFO] Before upload 
+2025-04-29 17:30:56 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-04-29 17:30:56 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-04-29 17:30:57 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173056190.desktop 
+2025-04-29 17:30:59 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009547.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009548.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009549.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009550.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009551.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009552.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009553.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009554.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009555.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009556.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009557.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009558.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009559.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009560.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009561.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009562.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009563.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009564.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009565.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009566.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009567.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009568.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009569.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009570.png
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009571.png 
+2025-04-29 17:31:00 [PicGo INFO] [PicGo Server] upload result https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009547.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009548.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009549.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009550.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009551.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009552.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009553.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009554.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009555.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009556.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009557.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009558.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009559.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009560.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009561.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009562.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009563.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009564.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009565.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009566.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009567.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009568.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009569.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009570.png ; https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250429173009571.png 
+2025-05-01 10:07:38 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174658.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429200243.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429200600.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174759.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174919.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174926.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175423.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175508.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175843.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517609.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517610.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517611.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517612.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517613.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517614.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517615.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517616.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517617.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075457.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075557.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075855.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080022.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080032.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080101.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080157.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082358.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080220.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082847.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082901.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083209.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083434.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083447.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180249.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180537.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180548.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180945.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429181253.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429181935.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429182127.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429182431.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429183303.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429183356.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429194538.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429194840.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100605.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100613.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100100.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100116.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100126.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100143.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100204.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100244.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100251.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071359.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071650.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100336.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430072011.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100519.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100532.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100536.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100548.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113923.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113953.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114107.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114201.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114222.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114302.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142610.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161703.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161753.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221450.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161808.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161903.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161923.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430162120.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430162132.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163024.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163107.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163127.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142702.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163238.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163401.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430164519.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221545.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142716.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430143141.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430154829.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221650.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221726.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221742.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221757.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224633.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224649.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224742.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224753.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430154920.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155054.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155121.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155136.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095304.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095315.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095928.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095431.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501094937.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095106.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095555.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095602.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095738.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095756.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095805.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429173532.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113317.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113412.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113535.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113707.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113719.png"]} 
+2025-05-01 10:07:38 [PicGo INFO] [PicGo Server] upload files in list 
+2025-05-01 10:07:38 [PicGo INFO] Before transform 
+2025-05-01 10:07:38 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 10:07:39 [PicGo INFO] Before upload 
+2025-05-01 10:07:39 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 10:07:39 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 10:07:53 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174658.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429200243.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429200600.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174759.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174919.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174926.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175423.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175508.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175843.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517609.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517610.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517611.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517612.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517613.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517614.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517615.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517616.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517617.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075457.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075557.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075855.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080022.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080032.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080101.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080157.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082358.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080220.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082847.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082901.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083209.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083434.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083447.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180249.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180537.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180548.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180945.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429181253.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429181935.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429182127.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429182431.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429183303.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429183356.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429194538.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429194840.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100605.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100613.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100100.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100116.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100126.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100143.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100204.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100244.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100251.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071359.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071650.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100336.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430072011.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100519.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100532.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100536.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100548.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113923.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113953.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114107.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114201.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114222.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114302.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142610.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161703.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161753.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221450.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161808.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161903.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161923.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430162120.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430162132.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163024.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163107.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163127.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142702.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163238.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163401.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430164519.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221545.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142716.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430143141.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430154829.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221650.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221726.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221742.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221757.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224633.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224649.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224742.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224753.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430154920.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155054.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155121.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155136.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095304.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095315.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095928.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095431.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501094937.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095106.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095555.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095602.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095738.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095756.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095805.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429173532.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113317.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113412.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113535.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113707.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113719.png"]} 
+2025-05-01 10:07:53 [PicGo INFO] [PicGo Server] upload files in list 
+2025-05-01 10:07:53 [PicGo INFO] Before transform 
+2025-05-01 10:07:53 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 10:07:54 [PicGo INFO] Before upload 
+2025-05-01 10:07:54 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 10:07:54 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 10:07:58 [PicGo WARN] failed 
+2025-05-01 10:07:58 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250501100754277.png",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 5b195fbcd669bb30695c791dc3573d5109db9210 but expected 8ed781ebbf8c7c82518eec6915c27004ec5e472a",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-05-01 10:07:58 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250501100754277.png",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 5b195fbcd669bb30695c791dc3573d5109db9210 but expected 8ed781ebbf8c7c82518eec6915c27004ec5e472a",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-05-01 10:07:58 [PicGo INFO] [PicGo Server] upload result  
+2025-05-01 10:07:58 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-05-01 10:08:07 [PicGo INFO] Before transform 
+2025-05-01 10:08:07 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 10:08:07 [PicGo WARN] can't get /home/hamhuo/Documents/GitHub/school/StudentSphere/MechineLearning/dinov2/conda.yaml's image size 
+2025-05-01 10:08:07 [PicGo WARN] fallback to 200 * 200 
+2025-05-01 10:08:07 [PicGo INFO] Before upload 
+2025-05-01 10:08:07 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 10:08:07 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 10:08:08 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250501100807894.yaml 
+2025-05-01 10:08:09 [PicGo WARN] failed 
+2025-05-01 10:08:09 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250501100739672.png",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 7c3088e228f514de4002b153cae03a2f071986c0 but expected b7dfcc5e25edb42f3a30ea47a5a94aeaa33dc88a",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-05-01 10:08:09 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250501100739672.png",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 7c3088e228f514de4002b153cae03a2f071986c0 but expected b7dfcc5e25edb42f3a30ea47a5a94aeaa33dc88a",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-05-01 10:08:09 [PicGo INFO] [PicGo Server] upload result  
+2025-05-01 10:08:09 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-05-01 10:09:16 [PicGo INFO] [PicGo Server] shutdown 
+2025-05-01 10:09:16 [PicGo INFO] [PicGo Server] is listening at 20171 
+2025-05-01 10:09:20 [PicGo INFO] Before transform 
+2025-05-01 10:09:20 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 10:09:20 [PicGo WARN] can't get /home/hamhuo/Documents/GitHub/school/StudentSphere/MechineLearning/dinov2/conda.yaml's image size 
+2025-05-01 10:09:20 [PicGo WARN] fallback to 200 * 200 
+2025-05-01 10:09:20 [PicGo INFO] Before upload 
+2025-05-01 10:09:20 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 10:09:20 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 10:09:21 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250501100920081.yaml 
+2025-05-01 11:15:55 [PicGo INFO] Before transform 
+2025-05-01 11:15:55 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 11:15:55 [PicGo WARN] can't get /run/user/1000/doc/43ab2639/obsidian.desktop's image size 
+2025-05-01 11:15:55 [PicGo WARN] fallback to 200 * 200 
+2025-05-01 11:15:55 [PicGo INFO] Before upload 
+2025-05-01 11:15:55 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 11:15:55 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 11:15:56 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250501111555370.desktop 
+2025-05-01 11:19:05 [PicGo INFO] [PicGo Server] shutdown 
+2025-05-01 11:19:21 [PicGo INFO] [PicGo Server] is listening at 20171 
+2025-05-01 11:19:21 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-05-01 11:19:21 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-05-01 11:32:09 [PicGo INFO] Before transform 
+2025-05-01 11:32:09 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 11:32:09 [PicGo WARN] can't get /run/user/1000/doc/43ab2639/obsidian.desktop's image size 
+2025-05-01 11:32:09 [PicGo WARN] fallback to 200 * 200 
+2025-05-01 11:32:09 [PicGo INFO] Before upload 
+2025-05-01 11:32:09 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 11:32:09 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 11:32:10 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250501113209171.desktop 
+2025-05-01 11:36:03 [PicGo INFO] [PicGo Server] shutdown 
+2025-05-01 11:36:05 [PicGo INFO] Before transform 
+2025-05-01 11:36:05 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 11:36:05 [PicGo WARN] can't get /home/hamhuo/snap/picgo/x1/.config/picgo/picgo.log's image size 
+2025-05-01 11:36:05 [PicGo WARN] fallback to 200 * 200 
+2025-05-01 11:36:05 [PicGo INFO] Before upload 
+2025-05-01 11:36:05 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 11:36:05 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 11:36:07 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250501113605537.log 
+2025-05-01 11:40:48 [PicGo INFO] [PicGo Server] shutdown 
+2025-05-01 11:40:48 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-05-01 11:40:53 [PicGo INFO] detect second instance 
+2025-05-01 11:41:00 [PicGo INFO] [PicGo Server] get the request  
+2025-05-01 11:41:00 [PicGo INFO] [PicGo Server] upload clipboard file 
+2025-05-01 11:41:00 [PicGo INFO] upload clipboard file 
+2025-05-01 11:41:00 [PicGo INFO] Before transform 
+2025-05-01 11:41:00 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 11:41:00 [PicGo INFO] Before upload 
+2025-05-01 11:41:00 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 11:41:00 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 11:41:01 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250501114100529.png 
+2025-05-01 11:41:01 [PicGo INFO] [PicGo Server] upload result: https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250501114100529.png 
+2025-05-01 11:41:02 [PicGo INFO] detect second instance 
+2025-05-01 11:41:14 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174658.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429200243.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429200600.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174759.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174919.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174926.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175423.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175508.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175843.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517609.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517610.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517611.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517612.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517613.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517614.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517615.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517616.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517617.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075457.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075557.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075855.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080022.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080032.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080101.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080157.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082358.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080220.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082847.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082901.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083209.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083434.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083447.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180249.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180537.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180548.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180945.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429181253.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429181935.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429182127.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429182431.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429183303.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429183356.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429194538.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429194840.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100605.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100613.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100100.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100116.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100126.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100143.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100204.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100244.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100251.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071359.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071650.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100336.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430072011.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100519.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100532.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100536.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100548.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113923.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113953.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114107.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114201.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114222.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114302.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142610.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161703.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161753.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221450.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161808.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161903.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161923.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430162120.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430162132.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163024.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163107.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163127.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142702.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163238.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163401.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430164519.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221545.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142716.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430143141.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430154829.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221650.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221726.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221742.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221757.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224633.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224649.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224742.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224753.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430154920.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155054.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155121.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155136.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095304.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095315.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095928.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095431.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501094937.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095106.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095555.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095602.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095738.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095756.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095805.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429173532.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113317.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113412.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113535.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113707.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113719.png"]} 
+2025-05-01 11:41:14 [PicGo INFO] [PicGo Server] upload files in list 
+2025-05-01 11:41:14 [PicGo INFO] Before transform 
+2025-05-01 11:41:14 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 11:41:15 [PicGo INFO] Before upload 
+2025-05-01 11:41:15 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 11:41:15 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 11:41:28 [PicGo INFO] detect second instance 
+2025-05-01 11:42:18 [PicGo INFO] [PicGo Server] get the request {"list":["/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174658.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429200243.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429200600.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174759.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174919.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429174926.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175423.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175508.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429175843.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517609.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517610.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517611.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517612.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517613.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517614.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517615.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517616.png","https://raw.githubusercontent.com/hamhuo-hub/HamPic/img/20250428204517617.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075457.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075526.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075557.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429075855.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080022.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080032.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080101.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080157.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082358.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429080220.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082847.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429082901.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083209.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083434.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429083447.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180249.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180537.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180548.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429180945.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429181253.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429181935.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429182127.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429182431.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429183303.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429183356.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429194538.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429194840.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100605.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100613.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100100.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100116.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100126.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100143.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100204.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100244.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100251.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071359.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071650.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430071715.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100336.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430072011.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100519.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100532.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100536.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501100548.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113923.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113953.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114107.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114201.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114222.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430114302.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142610.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161703.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161753.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221450.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161808.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161903.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430161923.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430162120.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430162132.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163024.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163107.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163127.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142702.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163238.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430163401.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430164519.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221545.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430142716.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430143141.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430154829.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221650.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221726.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221742.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430221757.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224633.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224649.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224742.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430224753.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430154920.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155054.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155121.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430155136.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095304.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095315.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095928.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095431.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501094937.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095106.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095555.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095602.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095738.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095756.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250501095805.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250429173532.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113317.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113412.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113535.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113707.png","/home/hamhuo/Documents/GitHub/seaku-src/temp_img/Pasted image 20250430113719.png"]} 
+2025-05-01 11:42:18 [PicGo INFO] [PicGo Server] upload files in list 
+2025-05-01 11:42:18 [PicGo INFO] Before transform 
+2025-05-01 11:42:18 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-05-01 11:42:19 [PicGo INFO] Before upload 
+2025-05-01 11:42:19 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-05-01 11:42:19 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-05-01 11:42:20 [PicGo WARN] failed 
+2025-05-01 11:42:20 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250501114219399.png",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 8c1fdaee61083681420e6ebba50923b932dd6be6 but expected cf456360a7774a8aa90b48a587a3ab622fdf7bc5",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-05-01 11:42:20 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/hamhuo-hub/HamPic/contents/20250501114219399.png",
+  "statusCode": 409,
+  "message": "Request failed with status code 409",
+  "stack": {},
+  "response": {
+    "status": 409,
+    "statusCode": 409,
+    "body": {
+      "message": "is at 8c1fdaee61083681420e6ebba50923b932dd6be6 but expected cf456360a7774a8aa90b48a587a3ab622fdf7bc5",
+      "documentation_url": "https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+      "status": "409"
+    }
+  }
+} 
+2025-05-01 11:42:20 [PicGo INFO] [PicGo Server] upload result  
+2025-05-01 11:42:20 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-05-01 11:42:34 [PicGo INFO] Before transform 
+2025-05-01 11:42:34 [PicGo INFO] Transforming... Current transformer is [path] 
